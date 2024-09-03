@@ -1,0 +1,75 @@
+/* src/nodes/NodeStyles.css */
+.node {
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: #f7f7f7;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 8px;
+  width: 200px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.node h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  color: #007bff;
+}
+
+.node .handles {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.node .handle {
+  width: 16px;
+  height: 16px;
+  background-color: #007bff;
+  border-radius: 50%;
+}
+
+.node .content {
+  margin-top: 8px;
+}
+.base-node {
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 4px;
+  font-family: Arial, sans-serif;
+}
+.base-node h3 {
+  margin: 0;
+  font-size: 16px;
+}
+.base-node .handles {
+  margin: 10px 0;
+}
+.base-node .content {
+  margin-top: 10px;
+}
+/* src/nodes/NodeStyles.css */
+.base-node {
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 4px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+.base-node h3 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+.base-node .handles {
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.base-node .content {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #555;
+}

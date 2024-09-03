@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* src/App.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  background-color: #61dafb;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
