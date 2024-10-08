@@ -1,4 +1,4 @@
-![LLM-MODEL]("C:\Users\Dell\Downloads\LLM1.png")
+![LLM-MODEL](https://drive.google.com/file/d/1DhjS2Z5uYf-NsCxMzicBBBgHEd5Vx1Pd/view?usp=drive_link)
 
 # Getting Started with Create React App
 
