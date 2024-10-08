@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-![logo](E:\vectorshift-frontend\public\LLM1.png)
+
+![logo](https://github.com/VANSHPRAJAPATI115/LLM_React_Flow_No_Code_AI/blob/main/public/LLM1.png)
 <h1 align="center">Hi 👋, I'm Vansh Prajapati</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
@@ -30,8 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshprajapati115&" alt="vanshprajapati115" /></p>
 =======
-![LLM MPDEL](https://drive.google.com/file/d/1DhjS2Z5uYf-NsCxMzicBBBgHEd5Vx1Pd/view?usp=drive_link)
->>>>>>> d44ec365afdb5cdd326425061585605e3468d36f
 
 
 
