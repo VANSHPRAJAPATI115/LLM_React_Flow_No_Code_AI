@@ -1,5 +1,16 @@
+# Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![logo](https://github.com/VANSHPRAJAPATI115/LLM_React_Flow_No_Code_AI/blob/main/public/LLM1.png)
+### FRONTEND COMMAND ➡️ `npm start`
+![LLM MODEL WEBSITE](https://github.com/VANSHPRAJAPATI115/LLM_React_Flow_No_Code_AI/blob/main/public/LLM1.png)
+                                           |
+                                           |
+                                        🔻  🔻
+### BACKEND COMMAND ➡️ `uvicorn main:app --reload`
+![LLM WEBSITE OUTPUT](https://github.com/VANSHPRAJAPATI115/LLM_React_Flow_No_Code_AI/blob/main/public/LLM2.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Vansh Prajapati</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
@@ -30,27 +41,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshprajapati115&" alt="vanshprajapati115" /></p>
 =======
-
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
