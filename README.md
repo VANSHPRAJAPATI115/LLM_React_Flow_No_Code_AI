@@ -3,9 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### FRONTEND COMMAND ➡️ `npm start`
 ![LLM MODEL WEBSITE](https://github.com/VANSHPRAJAPATI115/LLM_React_Flow_No_Code_AI/blob/main/public/LLM1.png)
-                                           |
-                                           |
-                                        🔻  🔻
+                                           
 ### BACKEND COMMAND ➡️ `uvicorn main:app --reload`
 ![LLM WEBSITE OUTPUT](https://github.com/VANSHPRAJAPATI115/LLM_React_Flow_No_Code_AI/blob/main/public/LLM2.png)
 
@@ -40,4 +38,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshprajapati115&show_icons=true&locale=en" alt="vanshprajapati115" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshprajapati115&" alt="vanshprajapati115" /></p>
-=======
